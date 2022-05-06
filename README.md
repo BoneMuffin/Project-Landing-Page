@@ -1,4 +1,4 @@
 Working with CSS and flex properties
 That's about it.
 
-Photo by cody berg
+Photos by cody berg and Eduardo Rosas
