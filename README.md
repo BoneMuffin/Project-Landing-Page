@@ -1,2 +1,1 @@
-Working with CSS and flex properties
-Photos by cody berg and Eduardo Rosas
+Working with CSS and flex properties to create a landing page. Hours of sleep were neglected.
